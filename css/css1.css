@@ -1,0 +1,81 @@
+
+body {
+	background-color: #e6e6e6;
+	
+}
+
+#utram {
+	background-image:url('bilder/brick.jpg');
+}
+
+#ram {
+	max-width: 1200px;
+	margin: auto;
+}
+
+header {
+	background-color: #005580;
+	border-top: solid black 5px;
+	border-left: solid black 5px;
+	border-right: solid black 5px;
+}
+
+#Textlogga {
+	text-align: center;
+	font-size: 50px;
+	padding: 60px 0;
+
+}
+
+a:link {
+    color: lightblue;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+nav {
+	
+}
+
+#mainnav>ul {
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+	background-color: #002233;
+	padding: 10px;
+	border-top: solid black 5px;
+	border-bottom: solid black 5px;
+	margin-bottom: 20px;
+}
+
+#mainnav li {
+	font-size: 30px;
+	
+
+	
+}
+
+#mainnav a {
+		text-decoration: none;
+}
+
+.dif1 {
+	width: 200px;
+	position: absolute;
+	top: 40px;
+}
+
+.tröja {
+	width: 300px;
+	
+}
+
+aside {
+	float: right;
+	background-color: grey;
+	padding-left: 150px;
+	padding-top: 0px;
+}
