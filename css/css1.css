@@ -5,7 +5,7 @@ body {
 }
 
 #utram {
-	background-image:url('bilder/brick.jpg');
+	background-image:url('https://www.google.se/search?q=brick+seamless+texture&rlz=1C1GCEA_enSE775SE775&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2sL_jzNfaAhUJh6YKHXtmAaoQ_AUICigB&biw=1366&bih=637#imgrc=_RmSJmWDZnZtyM:');
 }
 
 #ram {
@@ -27,14 +27,7 @@ header {
 
 }
 
-a:link {
-    color: lightblue;
-}
 
-/* mouse over link */
-a:hover {
-    color: hotpink;
-}
 
 nav {
 	
@@ -75,7 +68,10 @@ nav {
 
 aside {
 	float: right;
-	background-color: grey;
-	padding-left: 150px;
+	padding-left: 300px;
 	padding-top: 0px;
+}
+
+.tabell {
+		border: solid black 5px;
 }
